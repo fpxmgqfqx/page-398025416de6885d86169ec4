@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-1cb63c7761.rdauuuo.cn/sitemap.xml
